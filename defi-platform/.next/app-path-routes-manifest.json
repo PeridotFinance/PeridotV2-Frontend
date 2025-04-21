@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/contact/route": "/api/contact",
+  "/about/page": "/about",
+  "/app/page": "/app",
+  "/contact/page": "/contact",
+  "/connect/page": "/connect",
+  "/team/page": "/team",
+  "/security/page": "/security",
+  "/page": "/",
+  "/how-it-works/page": "/how-it-works",
+  "/whitepaper/page": "/whitepaper",
+  "/faq/page": "/faq",
+  "/blog/page": "/blog",
+  "/blog/[slug]/page": "/blog/[slug]"
+}
